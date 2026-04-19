@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Munna
 
-**Frontend Developer** | **Generative Ai**  
+**MERN STACK Developer** | **Generative Ai**  
 
 I build fast, modern, and scalable web applications with clean UI and great UX.  
 Comfortable working with modern backend services like **Supabase** and **Firebase**.

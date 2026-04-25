@@ -53,9 +53,9 @@ Comfortable working with modern backend services like **Supabase** and **Firebas
   <a href="https://x.com/Munna_jsx">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
-  <a href="https://discord.gg/">
+  <!-- <a href="https://discord.gg/">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
+  </a> -->
   <a href="mailto:mkcodes.in@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>

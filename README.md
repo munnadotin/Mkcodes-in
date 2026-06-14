@@ -59,3 +59,10 @@ I build production-ready web applications and AI-powered systems using TypeScrip
 ![Snake animation](https://github.com/Mkcodes-in/Mkcodes-in/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 ![Snake animation](https://github.com/Mkcodes-in/Mkcodes-in/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
+
+---
+
+### Connect With Me
+
+* LinkedIn: https://www.linkedin.com/in/munna-kumar-95b381264/
+* Email: [mkcodes.in@gmail.com](mailto:mkcodes.in@gmail.com)

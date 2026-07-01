@@ -63,6 +63,3 @@ I build production-ready web applications and AI-powered systems using TypeScrip
 ---
 
 ### Connect With Me
-
-* LinkedIn: https://www.linkedin.com/in/munna-kumar-95b381264/
-* Email: [mkcodes.in@gmail.com](mailto:mkcodes.in@gmail.com)

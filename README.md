@@ -51,11 +51,3 @@ I build production-ready web applications and AI-powered systems using TypeScrip
 * AWS
 * GitHub Actions
 * CI/CD
-
----
-
-### Contribution Snake
-
-![Snake animation](https://github.com/Mkcodes-in/Mkcodes-in/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-
----
